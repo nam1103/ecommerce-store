@@ -33,7 +33,7 @@ const MainNav: React.FC<MainNavProps> = ({ data }) => {
 				</Link>
 			))}
 			<Link
-				href="http://localhost:3000"
+				href="https://nam-ecommerce-admin.vercel.app/"
 				className="text-sm p-2 ml-10 rounded-lg hover:bg-neutral-100 transition"
 			>
 				Create Your Store
